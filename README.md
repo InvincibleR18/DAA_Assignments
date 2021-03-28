@@ -86,6 +86,7 @@ The algorithm will have a O(n^2) time complexity where n is the length of the st
 
 
 **Space Complexity**
+<br>
 The algorithm will have a O(n^2) space complexity where n is the length of the string.This is because a memorization table (n x n 2d array) is used to store the results of the 
 sub-problems.Therefore, O(n^2) auxiliary space is required.
 
@@ -93,6 +94,7 @@ sub-problems.Therefore, O(n^2) auxiliary space is required.
 
 ### References
 https://www.geeksforgeeks.org/count-palindrome-sub-strings-string/
+<br>
 Introduction to Algorithms by Thomas.H.cormen
 
 
