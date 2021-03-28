@@ -6,7 +6,7 @@
 |  Enrollment No |   Name         | GithubId        |
  --------------  |   ----         | --------        |
 |    IIT2019189  |   Nidhi Kamewar  | Nidhikamewar15         |
-|    IIT2019190  |   Rishi Gupta   | Invincible18      | 
+|    IIT2019190  |   Rishi Gupta   | InvincibleR18      | 
 |    IIT2019191  |   Pechetti Venkata Karthik | iit2019191  |
 
 **Group No-**"2"
@@ -43,11 +43,12 @@ g++ code.cpp
 
 Input : 
 ```
-Given a string S.
+Enter length of string(a random string of this length will be generated and used).
+You can uncomment line 101: cin>>s; in the code.cpp file to give a string as manual input.
 ```
 output : 
 ```
-Number of non-empty substrings that are pallindromes.
+Number of non-empty substrings that are palindromes.
 
 ```
 ---
