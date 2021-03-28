@@ -39,6 +39,8 @@ string generateRandomString(int n)
 
 bool isPal(string s,int i,int j)
 {
+	//This case where the first index is greater than the last index can be called only by a string
+	//of length 2 with same characters or a string of length 1. Both are palindromes and hence we return 1.
 	if (i>j)
 		return 1;
 
