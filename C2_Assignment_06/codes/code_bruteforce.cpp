@@ -6,8 +6,9 @@ integer which represents knapsack capacity, find out the maximum value subset of
 such that sum of the weights of this subset is smaller than or equal to knapsack capacity.
 */
 
-#include<bits/stdc++.h>
+//ALGORITHM-1 (Brute Force)
 
+#include<bits/stdc++.h>
 using namespace std;
 
 
