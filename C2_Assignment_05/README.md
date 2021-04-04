@@ -28,7 +28,7 @@ programming.
 <br> To use this code on your computer, just clone this repository on your system, after which you can look all the resources such as report, ppt and c++ implementation of this problem statement. Just GitBash in the folder where you want to clone the repo and download it-
 ```
 #Download project
-https://github.com/Invincible/DAA-Assignment-5.git
+https://github.com/Invincible/DAA-Assignments/C2_Assignment_05.git
 ```
 
 ---
