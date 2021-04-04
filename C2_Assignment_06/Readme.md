@@ -2,11 +2,11 @@
 ## Assignment-6
 
 **Team Members**
-|  Enrollment No |   Name         | GithubId        |
- --------------  |   ----         | --------        |
-|    IIT2019189  |   Nidhi Kamewar  | Nidhikamewar15         |
-|    IIT2019190  |   Rishi Gupta   | InvincibleR18      | 
-|    IIT2019191  |   Pechetti Venkata Karthik | iit2019191  |
+|  Enrollment No |   Name                     | GithubId        |
+ --------------  |   -----------------------  | ----------------|
+|    IIT2019189  |   Nidhi Kamewar            | Nidhikamewar15  |
+|    IIT2019190  |   Rishi Gupta              | InvincibleR18   | 
+|    IIT2019191  |   Pechetti Venkata Karthik | iit2019191      |
 
 **Group No-**"2"
 **Faculty Name-**"Rahul kala"
@@ -18,8 +18,10 @@
 
 Given weights and values of n items we have to design an algorithm to find out the maximum value subset of the values of final items which must be included in the knapsack such that the total value of the weight of the final items included in the knapsack should be less than or equal to the given capacity of the knapsack
 ---
+
 ## How to use code
 <br> To use this code on your computer, just clone this repository on your system, after which you can look all the resources such as report, ppt and c++ implementation of this problem statement. Just GitBash in the folder where you want to clone the repo and download it-
+
 ```
 #Download project
 https://github.com/Invincible/DAA-Assignments/C2_Assignment_06.git
