@@ -1,3 +1,4 @@
+
 ---
 ## Assignment-6
 
@@ -17,11 +18,10 @@
 ## Problem Statement
 
 Given weights and values of n items we have to design an algorithm to find out the maximum value subset of the values of final items which must be included in the knapsack such that the total value of the weight of the final items included in the knapsack should be less than or equal to the given capacity of the knapsack
----
 
+---
 ## How to use code
 <br> To use this code on your computer, just clone this repository on your system, after which you can look all the resources such as report, ppt and c++ implementation of this problem statement. Just GitBash in the folder where you want to clone the repo and download it-
-
 ```
 #Download project
 https://github.com/Invincible/DAA-Assignments/C2_Assignment_06.git
@@ -84,10 +84,12 @@ The given problem has–
 The algorithm-1 computes every possible subsets to find the solution to the main problem hence it takes O(2^n) time.
 The algorithm-2 does not computes the solutions to the overlapping sub-problems instead looks for them in the lookup table which stores the values of sub-problems which occurred before, hence it takes O(n*cap) time.
 
+
 **Space Complexity**
 <br>
 The algorithm-1 uses O(1) auxillary space as no extra data structure is required.
 The algorithm-2 uses O(n*cap) auxillary space for the lookup table.
+
 ---
 
 ### References
