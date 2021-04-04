@@ -1,6 +1,6 @@
 
 ---
-## Assignment-5
+## DAA C2 Assignments
 
 **Team Members**
 |  Enrollment No |   Name         | GithubId        |
